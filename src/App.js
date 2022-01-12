@@ -9,7 +9,7 @@ function App() {
 
 
       <form className='container'>
-        <h1 className='mx-5'>Hello Word!</h1>
+        
         <div className="mb-3">
           <label htmlFor="exampleInputEmail1" className="form-label">Email address</label>
           <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
